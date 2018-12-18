@@ -24,7 +24,7 @@ First run this:
 ```
 python3 manage.py runserver
 ```
-Then this [website link](http://127.0.0.1:8000/webapp/) should work and say "Ḧi!" to you.
+Then this [website link](http://127.0.0.1:8000/webapp/) should work and say "Hi!" to you.
 
 ## Authors
 
