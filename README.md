@@ -28,5 +28,5 @@ Then this [website link](http://127.0.0.1:8000/webapp/) should work and say "Hi!
 
 ## Authors
 
-**Sara M.** - *Initial work* - [tabotaab](https://github.com/tabotaab)
+**Sara M.** - *All the work* - [tabotaab](https://github.com/tabotaab)
 
