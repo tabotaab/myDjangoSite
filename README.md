@@ -19,12 +19,12 @@ sudo pip3 install Django
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+First run this:
 
 ```
 python3 manage.py runserver
 ```
-This [website link](http://127.0.0.1:8000/webapp/) should work now and say "Ḧi!" to you.
+Then this [website link](http://127.0.0.1:8000/webapp/) should work and say "Ḧi!" to you.
 
 ## Authors
 
